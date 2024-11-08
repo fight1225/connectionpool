@@ -5,7 +5,7 @@ CMakeFiles/connectionpool.dir/src/connection.cpp.o
  ../include/Connection.h
  ../include/pch.h
  ../include/public.h
- /home/xiaoyu/connectionpool/src/connection.cpp
+ /home/xiaoyu/gittext/connectionpool/src/connection.cpp
  /usr/include/mysql/binary_log_types.h
  /usr/include/mysql/my_alloc.h
  /usr/include/mysql/my_command.h
@@ -24,7 +24,7 @@ CMakeFiles/connectionpool.dir/src/connectionpool.cpp.o
  ../include/connectionpool.h
  ../include/pch.h
  ../include/public.h
- /home/xiaoyu/connectionpool/src/connectionpool.cpp
+ /home/xiaoyu/gittext/connectionpool/src/connectionpool.cpp
  /usr/include/mysql/binary_log_types.h
  /usr/include/mysql/my_alloc.h
  /usr/include/mysql/my_command.h
@@ -42,7 +42,7 @@ CMakeFiles/connectionpool.dir/src/main.cpp.o
  ../include/Connection.h
  ../include/connectionpool.h
  ../include/pch.h
- /home/xiaoyu/connectionpool/src/main.cpp
+ /home/xiaoyu/gittext/connectionpool/src/main.cpp
  /usr/include/mysql/binary_log_types.h
  /usr/include/mysql/my_alloc.h
  /usr/include/mysql/my_command.h
@@ -58,4 +58,4 @@ CMakeFiles/connectionpool.dir/src/main.cpp.o
  /usr/include/mysql/typelib.h
 CMakeFiles/connectionpool.dir/src/pch.cpp.o
  ../include/pch.h
- /home/xiaoyu/connectionpool/src/pch.cpp
+ /home/xiaoyu/gittext/connectionpool/src/pch.cpp

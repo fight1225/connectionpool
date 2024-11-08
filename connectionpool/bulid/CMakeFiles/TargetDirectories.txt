@@ -1,3 +1,3 @@
-/home/xiaoyu/connectionpool/bulid/CMakeFiles/rebuild_cache.dir
-/home/xiaoyu/connectionpool/bulid/CMakeFiles/connectionpool.dir
-/home/xiaoyu/connectionpool/bulid/CMakeFiles/edit_cache.dir
+/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles/rebuild_cache.dir
+/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles/connectionpool.dir
+/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles/edit_cache.dir

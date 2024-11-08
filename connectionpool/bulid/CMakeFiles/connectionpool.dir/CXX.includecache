@@ -44,37 +44,37 @@ condition_variable
 
 ../include/public.h
 
-/home/xiaoyu/connectionpool/src/connection.cpp
+/home/xiaoyu/gittext/connectionpool/src/connection.cpp
 pch.h
-/home/xiaoyu/connectionpool/src/pch.h
+/home/xiaoyu/gittext/connectionpool/src/pch.h
 public.h
-/home/xiaoyu/connectionpool/src/public.h
+/home/xiaoyu/gittext/connectionpool/src/public.h
 Connection.h
-/home/xiaoyu/connectionpool/src/Connection.h
+/home/xiaoyu/gittext/connectionpool/src/Connection.h
 iostream
 -
 
-/home/xiaoyu/connectionpool/src/connectionpool.cpp
+/home/xiaoyu/gittext/connectionpool/src/connectionpool.cpp
 pch.h
-/home/xiaoyu/connectionpool/src/pch.h
+/home/xiaoyu/gittext/connectionpool/src/pch.h
 connectionpool.h
-/home/xiaoyu/connectionpool/src/connectionpool.h
+/home/xiaoyu/gittext/connectionpool/src/connectionpool.h
 public.h
-/home/xiaoyu/connectionpool/src/public.h
+/home/xiaoyu/gittext/connectionpool/src/public.h
 
-/home/xiaoyu/connectionpool/src/main.cpp
+/home/xiaoyu/gittext/connectionpool/src/main.cpp
 pch.h
-/home/xiaoyu/connectionpool/src/pch.h
+/home/xiaoyu/gittext/connectionpool/src/pch.h
 iostream
 -
 Connection.h
-/home/xiaoyu/connectionpool/src/Connection.h
+/home/xiaoyu/gittext/connectionpool/src/Connection.h
 connectionpool.h
-/home/xiaoyu/connectionpool/src/connectionpool.h
+/home/xiaoyu/gittext/connectionpool/src/connectionpool.h
 
-/home/xiaoyu/connectionpool/src/pch.cpp
+/home/xiaoyu/gittext/connectionpool/src/pch.cpp
 pch.h
-/home/xiaoyu/connectionpool/src/pch.h
+/home/xiaoyu/gittext/connectionpool/src/pch.h
 
 /usr/include/mysql/binary_log_types.h
 

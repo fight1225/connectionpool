@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/xiaoyu/connectionpool/src/connection.cpp" "/home/xiaoyu/connectionpool/bulid/CMakeFiles/connectionpool.dir/src/connection.cpp.o"
-  "/home/xiaoyu/connectionpool/src/connectionpool.cpp" "/home/xiaoyu/connectionpool/bulid/CMakeFiles/connectionpool.dir/src/connectionpool.cpp.o"
-  "/home/xiaoyu/connectionpool/src/main.cpp" "/home/xiaoyu/connectionpool/bulid/CMakeFiles/connectionpool.dir/src/main.cpp.o"
-  "/home/xiaoyu/connectionpool/src/pch.cpp" "/home/xiaoyu/connectionpool/bulid/CMakeFiles/connectionpool.dir/src/pch.cpp.o"
+  "/home/xiaoyu/gittext/connectionpool/src/connection.cpp" "/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles/connectionpool.dir/src/connection.cpp.o"
+  "/home/xiaoyu/gittext/connectionpool/src/connectionpool.cpp" "/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles/connectionpool.dir/src/connectionpool.cpp.o"
+  "/home/xiaoyu/gittext/connectionpool/src/main.cpp" "/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles/connectionpool.dir/src/main.cpp.o"
+  "/home/xiaoyu/gittext/connectionpool/src/pch.cpp" "/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles/connectionpool.dir/src/pch.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

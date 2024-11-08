@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/xiaoyu/connectionpool
+CMAKE_SOURCE_DIR = /home/xiaoyu/gittext/connectionpool
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/xiaoyu/connectionpool/bulid
+CMAKE_BINARY_DIR = /home/xiaoyu/gittext/connectionpool/bulid
 
 # Include any dependencies generated for this target.
 include CMakeFiles/connectionpool.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/connectionpool.dir/flags.make
 
 CMakeFiles/connectionpool.dir/src/connection.cpp.o: CMakeFiles/connectionpool.dir/flags.make
 CMakeFiles/connectionpool.dir/src/connection.cpp.o: ../src/connection.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xiaoyu/connectionpool/bulid/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/connectionpool.dir/src/connection.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/connectionpool.dir/src/connection.cpp.o -c /home/xiaoyu/connectionpool/src/connection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/connectionpool.dir/src/connection.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/connectionpool.dir/src/connection.cpp.o -c /home/xiaoyu/gittext/connectionpool/src/connection.cpp
 
 CMakeFiles/connectionpool.dir/src/connection.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/connectionpool.dir/src/connection.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xiaoyu/connectionpool/src/connection.cpp > CMakeFiles/connectionpool.dir/src/connection.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xiaoyu/gittext/connectionpool/src/connection.cpp > CMakeFiles/connectionpool.dir/src/connection.cpp.i
 
 CMakeFiles/connectionpool.dir/src/connection.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/connectionpool.dir/src/connection.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xiaoyu/connectionpool/src/connection.cpp -o CMakeFiles/connectionpool.dir/src/connection.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xiaoyu/gittext/connectionpool/src/connection.cpp -o CMakeFiles/connectionpool.dir/src/connection.cpp.s
 
 CMakeFiles/connectionpool.dir/src/connection.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/connectionpool.dir/src/connection.cpp.o.provides.build: CMakeFiles/co
 
 CMakeFiles/connectionpool.dir/src/connectionpool.cpp.o: CMakeFiles/connectionpool.dir/flags.make
 CMakeFiles/connectionpool.dir/src/connectionpool.cpp.o: ../src/connectionpool.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xiaoyu/connectionpool/bulid/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/connectionpool.dir/src/connectionpool.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/connectionpool.dir/src/connectionpool.cpp.o -c /home/xiaoyu/connectionpool/src/connectionpool.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/connectionpool.dir/src/connectionpool.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/connectionpool.dir/src/connectionpool.cpp.o -c /home/xiaoyu/gittext/connectionpool/src/connectionpool.cpp
 
 CMakeFiles/connectionpool.dir/src/connectionpool.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/connectionpool.dir/src/connectionpool.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xiaoyu/connectionpool/src/connectionpool.cpp > CMakeFiles/connectionpool.dir/src/connectionpool.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xiaoyu/gittext/connectionpool/src/connectionpool.cpp > CMakeFiles/connectionpool.dir/src/connectionpool.cpp.i
 
 CMakeFiles/connectionpool.dir/src/connectionpool.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/connectionpool.dir/src/connectionpool.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xiaoyu/connectionpool/src/connectionpool.cpp -o CMakeFiles/connectionpool.dir/src/connectionpool.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xiaoyu/gittext/connectionpool/src/connectionpool.cpp -o CMakeFiles/connectionpool.dir/src/connectionpool.cpp.s
 
 CMakeFiles/connectionpool.dir/src/connectionpool.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/connectionpool.dir/src/connectionpool.cpp.o.provides.build: CMakeFile
 
 CMakeFiles/connectionpool.dir/src/main.cpp.o: CMakeFiles/connectionpool.dir/flags.make
 CMakeFiles/connectionpool.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xiaoyu/connectionpool/bulid/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/connectionpool.dir/src/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/connectionpool.dir/src/main.cpp.o -c /home/xiaoyu/connectionpool/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/connectionpool.dir/src/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/connectionpool.dir/src/main.cpp.o -c /home/xiaoyu/gittext/connectionpool/src/main.cpp
 
 CMakeFiles/connectionpool.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/connectionpool.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xiaoyu/connectionpool/src/main.cpp > CMakeFiles/connectionpool.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xiaoyu/gittext/connectionpool/src/main.cpp > CMakeFiles/connectionpool.dir/src/main.cpp.i
 
 CMakeFiles/connectionpool.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/connectionpool.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xiaoyu/connectionpool/src/main.cpp -o CMakeFiles/connectionpool.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xiaoyu/gittext/connectionpool/src/main.cpp -o CMakeFiles/connectionpool.dir/src/main.cpp.s
 
 CMakeFiles/connectionpool.dir/src/main.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/connectionpool.dir/src/main.cpp.o.provides.build: CMakeFiles/connecti
 
 CMakeFiles/connectionpool.dir/src/pch.cpp.o: CMakeFiles/connectionpool.dir/flags.make
 CMakeFiles/connectionpool.dir/src/pch.cpp.o: ../src/pch.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xiaoyu/connectionpool/bulid/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/connectionpool.dir/src/pch.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/connectionpool.dir/src/pch.cpp.o -c /home/xiaoyu/connectionpool/src/pch.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/connectionpool.dir/src/pch.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/connectionpool.dir/src/pch.cpp.o -c /home/xiaoyu/gittext/connectionpool/src/pch.cpp
 
 CMakeFiles/connectionpool.dir/src/pch.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/connectionpool.dir/src/pch.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xiaoyu/connectionpool/src/pch.cpp > CMakeFiles/connectionpool.dir/src/pch.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xiaoyu/gittext/connectionpool/src/pch.cpp > CMakeFiles/connectionpool.dir/src/pch.cpp.i
 
 CMakeFiles/connectionpool.dir/src/pch.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/connectionpool.dir/src/pch.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xiaoyu/connectionpool/src/pch.cpp -o CMakeFiles/connectionpool.dir/src/pch.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xiaoyu/gittext/connectionpool/src/pch.cpp -o CMakeFiles/connectionpool.dir/src/pch.cpp.s
 
 CMakeFiles/connectionpool.dir/src/pch.cpp.o.requires:
 
@@ -169,7 +169,7 @@ connectionpool: CMakeFiles/connectionpool.dir/src/main.cpp.o
 connectionpool: CMakeFiles/connectionpool.dir/src/pch.cpp.o
 connectionpool: CMakeFiles/connectionpool.dir/build.make
 connectionpool: CMakeFiles/connectionpool.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/xiaoyu/connectionpool/bulid/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable connectionpool"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable connectionpool"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/connectionpool.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -189,6 +189,6 @@ CMakeFiles/connectionpool.dir/clean:
 .PHONY : CMakeFiles/connectionpool.dir/clean
 
 CMakeFiles/connectionpool.dir/depend:
-	cd /home/xiaoyu/connectionpool/bulid && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/xiaoyu/connectionpool /home/xiaoyu/connectionpool /home/xiaoyu/connectionpool/bulid /home/xiaoyu/connectionpool/bulid /home/xiaoyu/connectionpool/bulid/CMakeFiles/connectionpool.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/xiaoyu/gittext/connectionpool/bulid && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/xiaoyu/gittext/connectionpool /home/xiaoyu/gittext/connectionpool /home/xiaoyu/gittext/connectionpool/bulid /home/xiaoyu/gittext/connectionpool/bulid /home/xiaoyu/gittext/connectionpool/bulid/CMakeFiles/connectionpool.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/connectionpool.dir/depend
 

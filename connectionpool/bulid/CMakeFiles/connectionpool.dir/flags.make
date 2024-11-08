@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/xiaoyu/connectionpool/include -I/usr/include/mysql 
+CXX_INCLUDES = -I/home/xiaoyu/gittext/connectionpool/include -I/usr/include/mysql 
 
